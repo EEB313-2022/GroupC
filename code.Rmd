@@ -1,0 +1,9 @@
+---
+tile: "first ggplot"
+author: "MG"
+---
+
+Our first plot
+```{r}
+library(ggplot2)
+```
